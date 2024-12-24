@@ -1,1 +1,1 @@
-# Lab on the subject Big Data
+# Labs on the subject Big Data
